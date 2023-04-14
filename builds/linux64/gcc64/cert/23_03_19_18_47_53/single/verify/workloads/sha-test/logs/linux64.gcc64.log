@@ -1,3 +1,0 @@
-#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
-#Results for verification run started at 23078:18:48:01 XCMD=-c4
-1050863061        MLT sha-test                                   1   1     0      0.029          1      34.48     79044       2408		

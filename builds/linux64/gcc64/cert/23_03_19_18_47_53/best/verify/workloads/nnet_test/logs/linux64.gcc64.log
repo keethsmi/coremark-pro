@@ -1,3 +1,0 @@
-#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
-#Results for verification run started at 23078:18:56:42 XCMD=-c4
-549578576         MLT nnet_test                                  4   0     0      2.935          1       0.34     72098      43856		

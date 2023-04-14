@@ -1,3 +1,0 @@
-#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
-#Results for verification run started at 23078:18:54:36 XCMD=-c4
-1862946660        MLT radix2-big-64k                             1   1     0      0.046          1      21.74   1447602       2608		
